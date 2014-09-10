@@ -34,3 +34,4 @@
 *.suo
 *.sdf
 *.aps
+/contrib/vstudio/vc14/x86/ZlibDllDebug
