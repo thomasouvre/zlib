@@ -23,3 +23,14 @@
 /zlib.pc
 
 .DS_Store
+/contrib/masmx64/gvmat64.lst
+/contrib/masmx64/gvmat64.obj
+/contrib/masmx64/inffasx64.lst
+/contrib/masmx64/inffasx64.obj
+/contrib/masmx86/match686.obj
+/contrib/masmx86/inffas32.lst
+/contrib/masmx86/inffas32.obj
+/contrib/masmx86/match686.lst
+*.suo
+*.sdf
+*.aps
